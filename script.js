@@ -60,7 +60,7 @@ const getRandomEmployee = function(employeesArray) {
   const randomEmployee = Math.floor(Math.random() * employeesArray.length);
 
   // Logs the random winner (first and last names)
-  console.log(`Congratulations to ${employeesArray[randomEmployee].first} ${employeesArray[randomEmployee].last}, this weeks random drawing winner.`);
+  console.log(`Congratulations to ${employeesArray[randomEmployee].firstName} ${employeesArray[randomEmployee].lastName}, this weeks random drawing winner.`);
 }
 
 

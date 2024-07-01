@@ -4,10 +4,10 @@
 
 This is an employee payroll tracker that uses HTML, CSS, and JavaScript. This application lets employers track how much each employee is making.
 
-** Add a picture of the deployed website here **
+![alt text](<Employee Payroll Tracker.png>)
 
 ## Depoyed Website
-** Add the deployed website URL here! **
+https://drew-andersen.github.io/Employee-Payroll-Tracker/
 
 ## Installation
 
